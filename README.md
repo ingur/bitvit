@@ -1,2 +1,2 @@
 # bitvit
-Code implementation for: Efficient Quantized Vision Transformers for Deepfake Detection
+Code implementation for Efficient Quantized Vision Transformers for Deepfake Detection
