@@ -12,6 +12,10 @@ Code implementation for Efficient Quantized Vision Transformers for Deepfake Det
 - `models.utils`: utility functions for parameter stats and model size estimation
 - `models.vit`: code implementation of LinViT (ViT) and BitViT models using SPT, sincos2d, and GAP
 
+- `train.py`: example training/fine-tuning code 
+- `pretrain.ipynb`: example pre-training config
+- `finetune.ipynb`: example fine-tuning config
+
 ## Requirements
 
 Models:
