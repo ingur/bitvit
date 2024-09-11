@@ -5,12 +5,12 @@ Code implementation for Efficient Quantized Vision Transformers for Deepfake Det
 
 ## Features
 
-- `models.bitlinear`: code implementations of the BitLinear layer, and RMSNorm
-- `models.dataloader`: custom dataloader class for faster training
-- `models.deepfake`: custom deepfake classifier, ViT wrapper, and EfficientNet baseline detector
-- `models.distill`: code implementation for knowledge distillation with hard-label loss
-- `models.utils`: utility functions for parameter stats and model size estimation
-- `models.vit`: code implementation of LinViT (ViT) and BitViT models using SPT, sincos2d, and GAP
+- `models/bitlinear.py`: code implementations of the BitLinear layer, and RMSNorm
+- `models/dataloader.py`: custom dataloader class for faster training
+- `models/deepfake.py`: custom deepfake classifier, ViT wrapper, and EfficientNet baseline detector
+- `models/distill.py`: code implementation for knowledge distillation with hard-label loss
+- `models/utils.py`: utility functions for parameter stats and model size estimation
+- `models/vit.py`: code implementation of LinViT (ViT) and BitViT models using SPT, sincos2d, and GAP
 
 - `train.py`: example training/fine-tuning code 
 - `pretrain.ipynb`: example pre-training config
