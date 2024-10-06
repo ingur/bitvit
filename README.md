@@ -1,6 +1,6 @@
 # BitViT
 Code implementation for Efficient Quantized Vision Transformers for Deepfake Detection
-> Paper submission currently under review
+> **Paper submission currently under review**
 
 ![bitvit_vs_linvit](https://github.com/user-attachments/assets/db6f3a79-8014-43e4-b82b-810476502d41)
 
